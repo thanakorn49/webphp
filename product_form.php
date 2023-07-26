@@ -5,6 +5,7 @@
 ราคา <input type="text" name="price"class="input"/> 
 จำนวน <input type="text" name="stock"class="input"/> 
 คำอธิบาย <input type="textarea" name="description"class="input"/> 
+Add <input type="file" name="photo" />
 
 <input type="submit" value="บันทึกข้อมูล"class="button"/>
 </form>
